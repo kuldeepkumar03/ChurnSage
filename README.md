@@ -40,4 +40,4 @@ The Random Forest model was the clear winner, demonstrating its ability to handl
 
 The final predictions can be loaded into a BI tool like Power BI to create a dashboard that identifies high-risk customers. This allows a customer retention team to proactively engage these users with targeted offers and prevent churn.
 
-*(Optional: Add a screenshot of your Power BI dashboard here)*
+
